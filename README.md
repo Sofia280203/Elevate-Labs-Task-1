@@ -1,5 +1,6 @@
 # Elevate-Labs-Task-1
 Task 1 submissions of Elevate Labs Data Analyst Internship 
+
 Summary of Task 1- 
 1. Downloaded the marketing campaign dataset from Kaggle searched using the keywords 'Customer Personality Analysis' given in the pdf. 
 2. Exported dataset in Jupyter
